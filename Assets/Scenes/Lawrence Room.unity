@@ -406,6 +406,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1508276646}
     m_Modifications:
+    - target: {fileID: 5630097707528362428, guid: 65e1b17be55fde04f921004e190ce003, type: 3}
+      propertyPath: m_InteractionLayers.m_Bits
+      value: 128
+      objectReference: {fileID: 0}
     - target: {fileID: 6954268796586615722, guid: 65e1b17be55fde04f921004e190ce003, type: 3}
       propertyPath: m_Name
       value: Mat_Rect_Green
@@ -853,7 +857,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_InteractionLayers:
-    m_Bits: 4294967295
+    m_Bits: 128
   m_AttachTransform: {fileID: 0}
   m_KeepSelectedTargetValid: 1
   m_StartingSelectedInteractable: {fileID: 0}
@@ -1614,6 +1618,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1508276646}
     m_Modifications:
+    - target: {fileID: 5630097707528362428, guid: 65e1b17be55fde04f921004e190ce003, type: 3}
+      propertyPath: m_InteractionLayers.m_Bits
+      value: 128
+      objectReference: {fileID: 0}
     - target: {fileID: 6954268796586615722, guid: 65e1b17be55fde04f921004e190ce003, type: 3}
       propertyPath: m_Name
       value: Mat_Rect_Green (4)
@@ -1899,7 +1907,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_InteractionLayers:
-    m_Bits: 4294967295
+    m_Bits: 0
   m_AttachTransform: {fileID: 0}
   m_KeepSelectedTargetValid: 1
   m_StartingSelectedInteractable: {fileID: 0}
@@ -2423,6 +2431,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1508276646}
     m_Modifications:
+    - target: {fileID: 5630097707528362428, guid: 65e1b17be55fde04f921004e190ce003, type: 3}
+      propertyPath: m_InteractionLayers.m_Bits
+      value: 128
+      objectReference: {fileID: 0}
     - target: {fileID: 6954268796586615722, guid: 65e1b17be55fde04f921004e190ce003, type: 3}
       propertyPath: m_Name
       value: Mat_Rect_Green (1)
@@ -3364,6 +3376,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1508276646}
     m_Modifications:
+    - target: {fileID: 5630097707528362428, guid: 65e1b17be55fde04f921004e190ce003, type: 3}
+      propertyPath: m_InteractionLayers.m_Bits
+      value: 128
+      objectReference: {fileID: 0}
     - target: {fileID: 6954268796586615722, guid: 65e1b17be55fde04f921004e190ce003, type: 3}
       propertyPath: m_Name
       value: Mat_Rect_Green (3)
@@ -3841,7 +3857,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_InteractionLayers:
-    m_Bits: 1
+    m_Bits: 128
   m_SelectMode: 1
   m_CustomReticle: {fileID: 8656087483511947524, guid: 50f8d835961353c4a8e0c4b77d7f8876, type: 3}
   m_FirstHoverEntered:
@@ -5787,6 +5803,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1508276646}
     m_Modifications:
+    - target: {fileID: 5630097707528362428, guid: 65e1b17be55fde04f921004e190ce003, type: 3}
+      propertyPath: m_InteractionLayers.m_Bits
+      value: 128
+      objectReference: {fileID: 0}
     - target: {fileID: 6954268796586615722, guid: 65e1b17be55fde04f921004e190ce003, type: 3}
       propertyPath: m_Name
       value: Mat_Rect_Green (2)
